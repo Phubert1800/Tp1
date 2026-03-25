@@ -1,0 +1,11 @@
+Modelo de datos inicial
+
+Entidad principal:
+- Item
+  - id
+  - nombre
+  - descripcion
+
+Base de datos:
+- SQLite
+- Archivo ubicado en backend/DB/init.db

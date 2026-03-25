@@ -1,0 +1,11 @@
+Archivos y link de diseño
+
+Frontend:
+- frontend/src/init.txt
+
+Backend:
+- backend/app.py
+- backend/main/__init__.py
+
+Link de diseño:
+- No definido por el momento
